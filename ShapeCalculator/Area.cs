@@ -1,9 +1,6 @@
 namespace ShapeCalculator;
 
-public interface Area
+ interface Area
 {
-    public virtual void CalculateArea(){
-        System.Console.WriteLine("This method will be overriden");
-        
-    }
+    double CalculateArea();
 }

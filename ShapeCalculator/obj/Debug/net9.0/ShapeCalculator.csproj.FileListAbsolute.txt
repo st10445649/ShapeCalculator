@@ -1,0 +1,15 @@
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/bin/Debug/net9.0/ShapeCalculator
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/bin/Debug/net9.0/ShapeCalculator.deps.json
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/bin/Debug/net9.0/ShapeCalculator.runtimeconfig.json
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/bin/Debug/net9.0/ShapeCalculator.dll
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/bin/Debug/net9.0/ShapeCalculator.pdb
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/obj/Debug/net9.0/ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/obj/Debug/net9.0/ShapeCalculator.AssemblyInfoInputs.cache
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/obj/Debug/net9.0/ShapeCalculator.AssemblyInfo.cs
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/obj/Debug/net9.0/ShapeCalculator.csproj.CoreCompileInputs.cache
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/obj/Debug/net9.0/ShapeCalculator.sourcelink.json
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/obj/Debug/net9.0/ShapeCalculator.dll
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/obj/Debug/net9.0/refint/ShapeCalculator.dll
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/obj/Debug/net9.0/ShapeCalculator.pdb
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/obj/Debug/net9.0/ShapeCalculator.genruntimeconfig.cache
+/Users/zahraagoga/Documents/VS Code/ShapeCalculator/ShapeCalculator/ShapeCalculator/obj/Debug/net9.0/ref/ShapeCalculator.dll
