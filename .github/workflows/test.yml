@@ -1,0 +1,34 @@
+name: Build and Syntax check
+
+on:
+  push:
+    branches: ["main"] #comments are added with #
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs on: ubuntu-latest 
+    
+      steps:
+      # Checkout repository
+    - name: Checkout Code
+    - uses: actions/checkout@v4 #command used in GitHub to checkout repository
+    #set up .NET SDK
+    - name: Set up .NET SDK
+    - uses: actions/setup-dotnet@v4
+      with: 
+        dotnet version: '9.0'        
+
+    # Restore any dependencies
+    - name: Dependencies
+    - uses: dotnet restore
+
+
+    #Run any unit tests
+    - name: Unit Test
+    - uses: dotnet test
+
+    #Build the project 
+    - name: Project Build
+    - uses: dotnet build --configuration release
