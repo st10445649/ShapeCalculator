@@ -2,15 +2,15 @@ name: Build and Syntax check
 
 on:
   push:
-    branches: ["main"] #comments are added with #
+    branches: ["main"]
   pull_request:
     branches: ["main"]
 
 jobs:
   build:
-    runs on: ubuntu-latest 
+    runs-on: ubuntu-latest 
     
-      steps:
+    steps:
       # Checkout repository
     - name: Checkout Code
     - uses: actions/checkout@v4 #command used in GitHub to checkout repository
@@ -22,13 +22,13 @@ jobs:
 
     # Restore any dependencies
     - name: Dependencies
-    - uses: dotnet restore
+    - run: dotnet restore
 
 
     #Run any unit tests
     - name: Unit Test
-    - uses: dotnet test
+    - run: dotnet test
 
     #Build the project 
     - name: Project Build
-    - uses: dotnet build --configuration release
+    - run: dotnet build --configuration release
